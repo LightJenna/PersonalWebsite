@@ -1,0 +1,136 @@
+body{
+  text-align: center;
+  font-family: "Courier New", monospace;
+  background-color: #e6f3ff;
+}
+
+img{
+  height: 180px;
+}
+
+h1{
+  font-size:25px;
+  color:#8C4CA4;
+}
+
+h2{
+  color:#8C4CA4;
+}
+
+h3{
+  color:#6c118e;
+}
+
+h4{
+  font-size: 12px;
+  color: aliceblue;
+  background-color:#7404ac;
+}
+
+li{
+  color: #580079;
+}
+
+p{
+  color: #580079;
+}
+
+.i {
+ color:#d3f2ff; 
+  background-color: #042Cac;
+  }
+
+.h {
+ color: #b8f046;
+  background-color: #04641c;
+}
+
+.p {
+  color: #005854;
+  background-color: #04B494;
+}
+
+.t {
+  color: #ffa1e9;
+  background-color: #7404ac;
+}
+
+.a {
+  color: aliceblue;
+  background-color: #011148;
+}
+
+.funh1 {
+  color:#4fbbff;
+}
+
+.funp {
+  color:#00009f;
+}
+
+.funh4 {
+  background-color: #042Cac;
+}
+
+.factli {
+  color: #017c06;
+  text-align: left;
+}
+
+.facth2 {
+  color:#7bc327;
+}
+
+.facth4 {
+  background-color: #04641c;
+}
+
+.subh1 {
+  color: #3a8d7d;
+}
+
+.subh2 {
+  color: #3a8d7d;
+}
+
+.subh3 {
+  color: #05a88f;
+}
+
+.subp {
+  color: #008873;
+}
+
+.subphead {
+  color: #008873;
+  text-decoration-line: underline;
+}
+
+.subh4 {
+  background-color: #04B494;
+  color:black;
+}
+
+.history {
+  background-color: #edffe6;
+}
+
+.paper {
+  background-color: #e6fff6;
+}
+
+.transforming {
+  background-color: #f8e6ff;
+}
+
+a {
+  color:aliceblue;
+}
+
+.link {
+  color:black;
+}
+
+table, th, td {
+  border: solid 1px black;
+}
